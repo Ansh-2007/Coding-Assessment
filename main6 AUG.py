@@ -14,6 +14,12 @@ from tkinter import messagebox
 # Declare global variables
 global first_name_entry, last_name_entry, hire_item_combobox, hire_item_no_entry
 
+def display_hired_items():
+
+    display_window = tkinter.Toplevel(window)
+    display_window.title("Hired Items")
+
+    display_frame = tkinter
 
 def data_base():
     first_name = first_name_entry.get()
