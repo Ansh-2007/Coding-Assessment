@@ -1,5 +1,0 @@
-
-a a,4397,Chair,1
-a a,5725,Cutlery,1
-A A,5948,Chair,1
-A A,8427,Chair,1
